@@ -13,4 +13,16 @@
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
 
+    <fragment
+        android:id="@+id/selectionFragment"
+        android:name="br.com.slim.popguys.SelectionFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="br.com.slim.popguys.SplashFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 </RelativeLayout>

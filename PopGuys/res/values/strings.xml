@@ -4,5 +4,12 @@
     <string name="app_name">Pop Guys</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="get_started">Inciando com login de usuario Facebook</string>
+    <string name="app_id">1490396267850698</string>
+    
+    <string name="hello">Welcome. Press Menu to login into Facebook...</string>
+    <string name="post">Wall Post!</string>
+    <string name="friends">Get Friends</string>
+    
 
 </resources>
